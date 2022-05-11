@@ -1,5 +1,4 @@
 <script>
-  import HamburgerMenu from "./HamburgerMenu.svelte";
   export let segment;
 </script>
 

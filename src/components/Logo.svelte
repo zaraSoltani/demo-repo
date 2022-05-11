@@ -28,7 +28,7 @@
   .content img {
     max-width: 50px;
     z-index: 10;
-  }
+  } 
   .content {
     max-width: 300px;
     display: flex;

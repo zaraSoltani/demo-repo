@@ -41,14 +41,14 @@
   }
 
   .background {
-    height: 4rem;
+    height: 100vh;
     width: 4rem;
     border-radius: 50%;
     position: fixed;
     /* top: 2.5vh; */
     right: -6vw;
     /* background-image: radial-gradient(green, black); */
-    background-color: black;
+    background-color: grey;
     z-index: 1000;
 
     transition: transform 0.8s cubic-bezier(0.86, 0, 0.07, 1);
@@ -101,7 +101,7 @@
 
   .link:hover,
   .link:active {
-    color: grey;
+    color: black;
     cursor: pointer;
   }
 
